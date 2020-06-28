@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="win0613ModelStoreContainer" CdmEntityContainer="win0613Entities">
+    <EntitySetMapping Name="Academics">
+      <EntityTypeMapping TypeName="win0613Model.Academic">
+        <MappingFragment StoreEntitySet="Academic">
+          <ScalarProperty Name="academicLevelID" ColumnName="academicLevelID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Acounts">
+      <EntityTypeMapping TypeName="win0613Model.Acount">
+        <MappingFragment StoreEntitySet="Acount">
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="pass" ColumnName="pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Faculties">
+      <EntityTypeMapping TypeName="win0613Model.Faculty">
+        <MappingFragment StoreEntitySet="Faculty">
+          <ScalarProperty Name="FacultyID" ColumnName="FacultyID" />
+          <ScalarProperty Name="FacultyName" ColumnName="FacultyName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KindOfTopics">
+      <EntityTypeMapping TypeName="win0613Model.KindOfTopic">
+        <MappingFragment StoreEntitySet="KindOfTopic">
+          <ScalarProperty Name="KotID" ColumnName="KotID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Positions">
+      <EntityTypeMapping TypeName="win0613Model.Position">
+        <MappingFragment StoreEntitySet="Position">
+          <ScalarProperty Name="PositionID" ColumnName="PositionID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Processes">
+      <EntityTypeMapping TypeName="win0613Model.Process">
+        <MappingFragment StoreEntitySet="Process">
+          <ScalarProperty Name="processID" ColumnName="processID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProcessTopics">
+      <EntityTypeMapping TypeName="win0613Model.ProcessTopic">
+        <MappingFragment StoreEntitySet="ProcessTopic">
+          <ScalarProperty Name="isPass" ColumnName="isPass" />
+          <ScalarProperty Name="processID" ColumnName="processID" />
+          <ScalarProperty Name="topicID" ColumnName="topicID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="win0613Model.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="studentID" ColumnName="studentID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="birth" ColumnName="birth" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="facultyID" ColumnName="facultyID" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Teachers">
+      <EntityTypeMapping TypeName="win0613Model.Teacher">
+        <MappingFragment StoreEntitySet="Teacher">
+          <ScalarProperty Name="teacherID" ColumnName="teacherID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="birth" ColumnName="birth" />
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="facultyID" ColumnName="facultyID" />
+          <ScalarProperty Name="academicID" ColumnName="academicID" />
+          <ScalarProperty Name="positionID" ColumnName="positionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Teams">
+      <EntityTypeMapping TypeName="win0613Model.Team">
+        <MappingFragment StoreEntitySet="Team">
+          <ScalarProperty Name="teamID" ColumnName="teamID" />
+          <ScalarProperty Name="studentID" ColumnName="studentID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TeamWorks">
+      <EntityTypeMapping TypeName="win0613Model.TeamWork">
+        <MappingFragment StoreEntitySet="TeamWork">
+          <ScalarProperty Name="teamID" ColumnName="teamID" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="point" ColumnName="point" />
+          <ScalarProperty Name="topicID" ColumnName="topicID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Topics">
+      <EntityTypeMapping TypeName="win0613Model.Topic">
+        <MappingFragment StoreEntitySet="Topic">
+          <ScalarProperty Name="TopicID" ColumnName="TopicID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="teacherID" ColumnName="teacherID" />
+          <ScalarProperty Name="kotID" ColumnName="kotID" />
+          <ScalarProperty Name="facultyID" ColumnName="facultyID" />
+          <ScalarProperty Name="dateForm" ColumnName="dateForm" />
+          <ScalarProperty Name="dateTo" ColumnName="dateTo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

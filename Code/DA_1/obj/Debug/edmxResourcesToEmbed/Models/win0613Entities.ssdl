@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="win0613Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Academic">
+    <Key>
+      <PropertyRef Name="academicLevelID" />
+    </Key>
+    <Property Name="academicLevelID" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Acount">
+    <Key>
+      <PropertyRef Name="userName" />
+    </Key>
+    <Property Name="userName" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="pass" Type="nchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Faculty">
+    <Key>
+      <PropertyRef Name="FacultyID" />
+    </Key>
+    <Property Name="FacultyID" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="FacultyName" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="KindOfTopic">
+    <Key>
+      <PropertyRef Name="KotID" />
+    </Key>
+    <Property Name="KotID" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Position">
+    <Key>
+      <PropertyRef Name="PositionID" />
+    </Key>
+    <Property Name="PositionID" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Process">
+    <Key>
+      <PropertyRef Name="processID" />
+    </Key>
+    <Property Name="processID" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ProcessTopic">
+    <Key>
+      <PropertyRef Name="processID" />
+      <PropertyRef Name="topicID" />
+    </Key>
+    <Property Name="isPass" Type="bit" />
+    <Property Name="processID" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="topicID" Type="nchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="studentID" />
+    </Key>
+    <Property Name="studentID" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+    <Property Name="birth" Type="datetime" />
+    <Property Name="phone" Type="nchar" MaxLength="100" />
+    <Property Name="mail" Type="nchar" MaxLength="100" />
+    <Property Name="facultyID" Type="nchar" MaxLength="100" />
+    <Property Name="userName" Type="nchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Teacher">
+    <Key>
+      <PropertyRef Name="teacherID" />
+    </Key>
+    <Property Name="teacherID" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+    <Property Name="birth" Type="datetime" />
+    <Property Name="mail" Type="nchar" MaxLength="100" />
+    <Property Name="phone" Type="nchar" MaxLength="100" />
+    <Property Name="userName" Type="nchar" MaxLength="20" />
+    <Property Name="facultyID" Type="nchar" MaxLength="100" />
+    <Property Name="academicID" Type="nchar" MaxLength="20" />
+    <Property Name="positionID" Type="nchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Team">
+    <Key>
+      <PropertyRef Name="teamID" />
+      <PropertyRef Name="studentID" />
+    </Key>
+    <Property Name="teamID" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="studentID" Type="nchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TeamWork">
+    <Key>
+      <PropertyRef Name="teamID" />
+    </Key>
+    <Property Name="teamID" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="link" Type="nchar" MaxLength="10" />
+    <Property Name="point" Type="nchar" MaxLength="10" />
+    <Property Name="topicID" Type="nchar" MaxLength="20" />
+    <Property Name="name" Type="nchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Topic">
+    <Key>
+      <PropertyRef Name="TopicID" />
+    </Key>
+    <Property Name="TopicID" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" />
+    <Property Name="teacherID" Type="nchar" MaxLength="20" />
+    <Property Name="kotID" Type="nchar" MaxLength="20" />
+    <Property Name="facultyID" Type="nchar" MaxLength="100" />
+    <Property Name="dateForm" Type="datetime" />
+    <Property Name="dateTo" Type="datetime" />
+  </EntityType>
+  <Association Name="FK_ProcessTopic_Process">
+    <End Role="Process" Type="Self.Process" Multiplicity="1" />
+    <End Role="ProcessTopic" Type="Self.ProcessTopic" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Process">
+        <PropertyRef Name="processID" />
+      </Principal>
+      <Dependent Role="ProcessTopic">
+        <PropertyRef Name="processID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProcessTopic_Topic">
+    <End Role="Topic" Type="Self.Topic" Multiplicity="1" />
+    <End Role="ProcessTopic" Type="Self.ProcessTopic" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Topic">
+        <PropertyRef Name="TopicID" />
+      </Principal>
+      <Dependent Role="ProcessTopic">
+        <PropertyRef Name="topicID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_Acount">
+    <End Role="Acount" Type="Self.Acount" Multiplicity="0..1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Acount">
+        <PropertyRef Name="userName" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="userName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_Faculty">
+    <End Role="Faculty" Type="Self.Faculty" Multiplicity="0..1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Faculty">
+        <PropertyRef Name="FacultyID" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="facultyID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Teacher_Academic">
+    <End Role="Academic" Type="Self.Academic" Multiplicity="0..1" />
+    <End Role="Teacher" Type="Self.Teacher" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Academic">
+        <PropertyRef Name="academicLevelID" />
+      </Principal>
+      <Dependent Role="Teacher">
+        <PropertyRef Name="academicID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Teacher_Acount">
+    <End Role="Acount" Type="Self.Acount" Multiplicity="0..1" />
+    <End Role="Teacher" Type="Self.Teacher" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Acount">
+        <PropertyRef Name="userName" />
+      </Principal>
+      <Dependent Role="Teacher">
+        <PropertyRef Name="userName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Teacher_Faculty">
+    <End Role="Faculty" Type="Self.Faculty" Multiplicity="0..1" />
+    <End Role="Teacher" Type="Self.Teacher" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Faculty">
+        <PropertyRef Name="FacultyID" />
+      </Principal>
+      <Dependent Role="Teacher">
+        <PropertyRef Name="facultyID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Teacher_Position">
+    <End Role="Position" Type="Self.Position" Multiplicity="0..1" />
+    <End Role="Teacher" Type="Self.Teacher" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Position">
+        <PropertyRef Name="PositionID" />
+      </Principal>
+      <Dependent Role="Teacher">
+        <PropertyRef Name="positionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Team_Student">
+    <End Role="Student" Type="Self.Student" Multiplicity="1" />
+    <End Role="Team" Type="Self.Team" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="studentID" />
+      </Principal>
+      <Dependent Role="Team">
+        <PropertyRef Name="studentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TeamWork_Topic">
+    <End Role="Topic" Type="Self.Topic" Multiplicity="0..1" />
+    <End Role="TeamWork" Type="Self.TeamWork" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Topic">
+        <PropertyRef Name="TopicID" />
+      </Principal>
+      <Dependent Role="TeamWork">
+        <PropertyRef Name="topicID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Topic_Faculty">
+    <End Role="Faculty" Type="Self.Faculty" Multiplicity="0..1" />
+    <End Role="Topic" Type="Self.Topic" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Faculty">
+        <PropertyRef Name="FacultyID" />
+      </Principal>
+      <Dependent Role="Topic">
+        <PropertyRef Name="facultyID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Topic_KindOfTopic">
+    <End Role="KindOfTopic" Type="Self.KindOfTopic" Multiplicity="0..1" />
+    <End Role="Topic" Type="Self.Topic" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KindOfTopic">
+        <PropertyRef Name="KotID" />
+      </Principal>
+      <Dependent Role="Topic">
+        <PropertyRef Name="kotID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Topic_Teacher">
+    <End Role="Teacher" Type="Self.Teacher" Multiplicity="0..1" />
+    <End Role="Topic" Type="Self.Topic" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Teacher">
+        <PropertyRef Name="teacherID" />
+      </Principal>
+      <Dependent Role="Topic">
+        <PropertyRef Name="teacherID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="win0613ModelStoreContainer">
+    <EntitySet Name="Academic" EntityType="Self.Academic" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Acount" EntityType="Self.Acount" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Faculty" EntityType="Self.Faculty" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KindOfTopic" EntityType="Self.KindOfTopic" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Position" EntityType="Self.Position" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Process" EntityType="Self.Process" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProcessTopic" EntityType="Self.ProcessTopic" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Teacher" EntityType="Self.Teacher" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Team" EntityType="Self.Team" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TeamWork" EntityType="Self.TeamWork" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Topic" EntityType="Self.Topic" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ProcessTopic_Process" Association="Self.FK_ProcessTopic_Process">
+      <End Role="Process" EntitySet="Process" />
+      <End Role="ProcessTopic" EntitySet="ProcessTopic" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProcessTopic_Topic" Association="Self.FK_ProcessTopic_Topic">
+      <End Role="Topic" EntitySet="Topic" />
+      <End Role="ProcessTopic" EntitySet="ProcessTopic" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_Acount" Association="Self.FK_Student_Acount">
+      <End Role="Acount" EntitySet="Acount" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_Faculty" Association="Self.FK_Student_Faculty">
+      <End Role="Faculty" EntitySet="Faculty" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Teacher_Academic" Association="Self.FK_Teacher_Academic">
+      <End Role="Academic" EntitySet="Academic" />
+      <End Role="Teacher" EntitySet="Teacher" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Teacher_Acount" Association="Self.FK_Teacher_Acount">
+      <End Role="Acount" EntitySet="Acount" />
+      <End Role="Teacher" EntitySet="Teacher" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Teacher_Faculty" Association="Self.FK_Teacher_Faculty">
+      <End Role="Faculty" EntitySet="Faculty" />
+      <End Role="Teacher" EntitySet="Teacher" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Teacher_Position" Association="Self.FK_Teacher_Position">
+      <End Role="Position" EntitySet="Position" />
+      <End Role="Teacher" EntitySet="Teacher" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Team_Student" Association="Self.FK_Team_Student">
+      <End Role="Student" EntitySet="Student" />
+      <End Role="Team" EntitySet="Team" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TeamWork_Topic" Association="Self.FK_TeamWork_Topic">
+      <End Role="Topic" EntitySet="Topic" />
+      <End Role="TeamWork" EntitySet="TeamWork" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Topic_Faculty" Association="Self.FK_Topic_Faculty">
+      <End Role="Faculty" EntitySet="Faculty" />
+      <End Role="Topic" EntitySet="Topic" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Topic_KindOfTopic" Association="Self.FK_Topic_KindOfTopic">
+      <End Role="KindOfTopic" EntitySet="KindOfTopic" />
+      <End Role="Topic" EntitySet="Topic" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Topic_Teacher" Association="Self.FK_Topic_Teacher">
+      <End Role="Teacher" EntitySet="Teacher" />
+      <End Role="Topic" EntitySet="Topic" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

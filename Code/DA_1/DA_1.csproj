@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6C4AEAD4-69B7-4323-8D7B-F94085FDC665}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DA_1</RootNamespace>
+    <AssemblyName>DA_1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\..\..\Users\thien\Desktop\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>C:\Users\lamha\OneDrive\Desktop\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.37.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.37\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\ControllerAdmin.cs" />
+    <Compile Include="Controllers\ControllerLogin.cs" />
+    <Compile Include="Controllers\ControllerStudent.cs" />
+    <Compile Include="Controllers\ControllerTeacher.cs" />
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Library\cColor.cs" />
+    <Compile Include="Library\cMainControl.cs" />
+    <Compile Include="Library\cRegular.cs" />
+    <Compile Include="Models\Academic.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Acount.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\dbContextEntity.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbContextEntity.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\dbContextEntity.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\dbContextEntity.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbContextEntity.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Faculty.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\KindOfTopic.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Position.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Process.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ProcessTopic.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Student.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sysdiagram.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Teacher.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\TeamWork.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Topic.cs">
+      <DependentUpon>dbContextEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Student\UCRegisterProject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Student\UCRegisterProject.Designer.cs">
+      <DependentUpon>UCRegisterProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Teacher\UCAddProject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Teacher\UCAddProject.Designer.cs">
+      <DependentUpon>UCAddProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Teacher\UCDashBoardTeacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Teacher\UCDashBoardTeacher.Designer.cs">
+      <DependentUpon>UCDashBoardTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Teacher\UCInforTeacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Teacher\UCInforTeacher.Designer.cs">
+      <DependentUpon>UCInforTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Teacher\UCMangeProject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Teacher\UCMangeProject.Designer.cs">
+      <DependentUpon>UCMangeProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UIMain\UCLoadForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UIMain\UCLoadForm.Designer.cs">
+      <DependentUpon>UCLoadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCAbout.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCAbout.Designer.cs">
+      <DependentUpon>UCAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCDashBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCDashBoard.Designer.cs">
+      <DependentUpon>UCDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\Student\UCDashBoardStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Student\UCDashBoardStudent.Designer.cs">
+      <DependentUpon>UCDashBoardStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Student\UCInforStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Student\UCInforStudent.Designer.cs">
+      <DependentUpon>UCInforStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCExtend.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCExtend.Designer.cs">
+      <DependentUpon>UCExtend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCFaculty.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCFaculty.Designer.cs">
+      <DependentUpon>UCFaculty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCInputStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCInputStudent.Designer.cs">
+      <DependentUpon>UCInputStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCInputTeacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCInputTeacher.Designer.cs">
+      <DependentUpon>UCInputTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCKoTopic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCKoTopic.Designer.cs">
+      <DependentUpon>UCKoTopic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Login\UCLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Login\UCLogin.Designer.cs">
+      <DependentUpon>UCLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCProject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCProject.Designer.cs">
+      <DependentUpon>UCProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCStudent.Designer.cs">
+      <DependentUpon>UCStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCStudentInfor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCStudentInfor.Designer.cs">
+      <DependentUpon>UCStudentInfor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Student\UCStudentProjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Student\UCStudentProjects.Designer.cs">
+      <DependentUpon>UCStudentProjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCTeacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCTeacher.Designer.cs">
+      <DependentUpon>UCTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCTeacherInfor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Admin\UCTeacherInfor.Designer.cs">
+      <DependentUpon>UCTeacherInfor.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Student\UCRegisterProject.resx">
+      <DependentUpon>UCRegisterProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Teacher\UCAddProject.resx">
+      <DependentUpon>UCAddProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Teacher\UCDashBoardTeacher.resx">
+      <DependentUpon>UCDashBoardTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Teacher\UCInforTeacher.resx">
+      <DependentUpon>UCInforTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Teacher\UCMangeProject.resx">
+      <DependentUpon>UCMangeProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UIMain\UCLoadForm.resx">
+      <DependentUpon>UCLoadForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCAbout.resx">
+      <DependentUpon>UCAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCDashBoard.resx">
+      <DependentUpon>UCDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UserControls\Student\UCDashBoardStudent.resx">
+      <DependentUpon>UCDashBoardStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Student\UCInforStudent.resx">
+      <DependentUpon>UCInforStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCExtend.resx">
+      <DependentUpon>UCExtend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCFaculty.resx">
+      <DependentUpon>UCFaculty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCInputStudent.resx">
+      <DependentUpon>UCInputStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCInputTeacher.resx">
+      <DependentUpon>UCInputTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCKoTopic.resx">
+      <DependentUpon>UCKoTopic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Login\UCLogin.resx">
+      <DependentUpon>UCLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCProject.resx">
+      <DependentUpon>UCProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCStudent.resx">
+      <DependentUpon>UCStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCStudentInfor.resx">
+      <DependentUpon>UCStudentInfor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Student\UCStudentProjects.resx">
+      <DependentUpon>UCStudentProjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCTeacher.resx">
+      <DependentUpon>UCTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Admin\UCTeacherInfor.resx">
+      <DependentUpon>UCTeacherInfor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="Models\dbContextEntity.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>dbContextEntity.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Models\dbContextEntity.edmx.diagram">
+      <DependentUpon>dbContextEntity.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon\Exit.png" />
+    <Content Include="Models\dbContextEntity.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>dbContextEntity.edmx</DependentUpon>
+      <LastGenOutput>dbContextEntity.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\dbContextEntity.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>dbContextEntity.edmx</DependentUpon>
+      <LastGenOutput>dbContextEntity.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

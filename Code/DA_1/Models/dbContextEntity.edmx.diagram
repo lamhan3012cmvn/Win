@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="24d9f5f1aa1f4c568b8270af1c72c287" Name="Diagram1">
+        <EntityTypeShape EntityType="win0613Model.Academic" Width="1.5" PointX="3.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.Acount" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.Faculty" Width="1.5" PointX="0.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.KindOfTopic" Width="1.5" PointX="9" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.Position" Width="1.5" PointX="3.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.Process" Width="1.5" PointX="11.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.ProcessTopic" Width="1.5" PointX="13.5" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.Student" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.sysdiagram" Width="1.5" PointX="0.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.Teacher" Width="1.5" PointX="6" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.TeamWork" Width="1.5" PointX="8.25" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="win0613Model.Topic" Width="1.5" PointX="11.25" PointY="3.875" IsExpanded="true" />
+        <AssociationConnector Association="win0613Model.FK_Teacher_Academic" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_Student_Acount" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_Teacher_Acount" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_Student_Faculty" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_Teacher_Faculty" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_Topic_Faculty" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_Topic_KindOfTopic" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_Teacher_Position" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_ProcessTopic_Process" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_ProcessTopic_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_Topic_Teacher" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.FK_TeamWork_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="win0613Model.Team" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

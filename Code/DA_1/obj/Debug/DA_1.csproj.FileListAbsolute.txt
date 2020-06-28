@@ -1,0 +1,477 @@
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\bin\Debug\DA_1.exe.config
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\bin\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\bin\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\bin\Debug\Guna.UI.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.Form1.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.Form2.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCDashBoard.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCExtend.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCFacultyBody.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCFacultyHead.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCInputStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCInputTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCKindofTopicHead.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCKindofTopicBody.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCTopicHead.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCTopicBody.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\bin\Debug\DA_1.exe.config
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\bin\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\bin\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\bin\Debug\EntityFramework.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\bin\Debug\EntityFramework.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudentInfor.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\bin\Debug\DA_1.exe.config
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\bin\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\bin\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\bin\Debug\EntityFramework.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\bin\Debug\EntityFramework.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.Form1.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.Form2.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCDashBoard.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCExtend.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCInputStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCInputTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudentInfor.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCFaculty.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCKoTopic.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCTopic.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_13052020\DA_112052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCTeacherInfor.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\bin\Debug\DA_1.exe.config
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\bin\Debug\DA_1.exe
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\bin\Debug\DA_1.pdb
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\bin\Debug\EntityFramework.dll
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\bin\Debug\EntityFramework.xml
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.Form1.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.Form2.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCDashBoard.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCExtend.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCFaculty.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCInputStudent.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCInputTeacher.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCKoTopic.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCProject.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudent.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudentInfor.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCTeacher.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCTeacherInfor.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCTopic.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.csproj.CoreCompileInputs.cache
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.exe
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.pdb
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\190713052020\DA_1\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\bin\Debug\EntityFramework.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\bin\Debug\EntityFramework.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.frmMain.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudentProjects.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCDashBoard.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCDashBoardStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCInforStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCExtend.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCFaculty.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCKoTopic.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCLogin.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudentInfor.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacherInfor.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.UIMain.UCLoadForm.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCRegisterProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCDashBoardTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCInforTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCMangeProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCAddProject.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\bin\Debug\DA_1.exe.config
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\bin\Debug\DA_1.exe
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\bin\Debug\DA_1.pdb
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\bin\Debug\EntityFramework.dll
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\bin\Debug\EntityFramework.xml
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.frmMain.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCRegisterProject.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCAddProject.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCDashBoardTeacher.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCInforTeacher.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCMangeProject.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UIMain.UCLoadForm.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCDashBoard.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCDashBoardStudent.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCInforStudent.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCRegister.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCExtend.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCFaculty.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputStudent.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputTeacher.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCKoTopic.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCLogin.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCProject.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCRegisterNext.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudent.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudentInfor.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudentProjects.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacher.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacherInfor.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTopic.resources
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.csproj.CoreCompileInputs.cache
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.exe
+D:\KenZy\Learning\HK2-Năm 2\Win\Đồ Án\200018052020\DA_1\DA_1\obj\Debug\DA_1.pdb
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\bin\Debug\DA_1.exe.config
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\bin\Debug\DA_1.exe
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\bin\Debug\DA_1.pdb
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\bin\Debug\EntityFramework.dll
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\bin\Debug\Guna.UI2.dll
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\bin\Debug\EntityFramework.xml
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.frmMain.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCRegisterProject.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCAddProject.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCDashBoardTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCInforTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCMangeProject.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UIMain.UCLoadForm.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCDashBoard.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCDashBoardStudent.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCInforStudent.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCRegister.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCExtend.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCFaculty.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputStudent.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCKoTopic.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCLogin.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCProject.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCRegisterNext.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudent.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudentInfor.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudentProjects.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacherInfor.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTopic.resources
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.csproj.CoreCompileInputs.cache
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.exe
+C:\Users\lamha\OneDrive\Desktop\161228052020\DA_1\DA_1\obj\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\bin\Debug\DA_1.exe.config
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\bin\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\bin\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\bin\Debug\EntityFramework.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\bin\Debug\EntityFramework.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.frmMain.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCRegisterProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCAddProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCDashBoardTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCInforTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCMangeProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.UIMain.UCLoadForm.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCDashBoard.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCDashBoardStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCInforStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCRegister.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCExtend.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCFaculty.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCKoTopic.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCLogin.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCRegisterNext.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudentInfor.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudentProjects.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacherInfor.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTopic.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\1144_2905\DA_1\DA_1\obj\Debug\DA_1.pdb
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.frmMain.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCRegisterProject.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCAddProject.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCDashBoardTeacher.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCInforTeacher.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCMangeProject.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.UIMain.UCLoadForm.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCDashBoard.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCDashBoardStudent.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCInforStudent.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCRegister.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCExtend.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCFaculty.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputStudent.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputTeacher.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCKoTopic.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCLogin.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCProject.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCRegisterNext.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudent.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudentInfor.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudentProjects.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacher.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacherInfor.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTopic.resources
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.csproj.CoreCompileInputs.cache
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.exe
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.pdb
+D:\3005\DA_1\DA_1\bin\Debug\DA_1.exe.config
+D:\3005\DA_1\DA_1\bin\Debug\DA_1.exe
+D:\3005\DA_1\DA_1\bin\Debug\DA_1.pdb
+D:\3005\DA_1\DA_1\bin\Debug\EntityFramework.dll
+D:\3005\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+D:\3005\DA_1\DA_1\bin\Debug\Guna.UI2.dll
+D:\3005\DA_1\DA_1\bin\Debug\EntityFramework.xml
+D:\3005\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+D:\3005\DA_1\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.frmMain.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCRegisterProject.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCAddProject.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCDashBoardTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCInforTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCMangeProject.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UIMain.UCLoadForm.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCDashBoard.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCDashBoardStudent.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCInforStudent.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCExtend.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCFaculty.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputStudent.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCKoTopic.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCLogin.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCProject.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudent.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudentInfor.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudentProjects.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacherInfor.resources
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.csproj.CoreCompileInputs.cache
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.exe
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.pdb
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\bin\Debug\DA_1.exe.config
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\bin\Debug\DA_1.exe
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\bin\Debug\DA_1.pdb
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\bin\Debug\EntityFramework.dll
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\bin\Debug\Guna.UI2.dll
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\bin\Debug\EntityFramework.xml
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lamha\OneDrive\Desktop\11062020\DA_1\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.frmMain.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Notification.UCNotification.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCRegisterProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCAddProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCDashBoardTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCInforTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCMangeProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UIMain.UCLoadForm.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCDashBoard.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCDashBoardStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Student.UCInforStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCExtend.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCFaculty.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCKoTopic.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Login.UCLogin.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudentInfor.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.UCStudentProjects.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacherInfor.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\bin\Debug\DA_1.exe.config
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\bin\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\bin\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\bin\Debug\EntityFramework.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\bin\Debug\EntityFramework.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\15062020\11062020\DA_1\DA_1\obj\Debug\DA_1.UserControls.Notification.DialogNotification.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\bin\Debug\DA_1.exe.config
+C:\Users\lamha\Downloads\DA_1_21\DA_1\bin\Debug\DA_1.exe
+C:\Users\lamha\Downloads\DA_1_21\DA_1\bin\Debug\DA_1.pdb
+C:\Users\lamha\Downloads\DA_1_21\DA_1\bin\Debug\EntityFramework.dll
+C:\Users\lamha\Downloads\DA_1_21\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lamha\Downloads\DA_1_21\DA_1\bin\Debug\Guna.UI2.dll
+C:\Users\lamha\Downloads\DA_1_21\DA_1\bin\Debug\EntityFramework.xml
+C:\Users\lamha\Downloads\DA_1_21\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.frmMain.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Notification.DialogNotification.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Notification.UCNotification.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Student.UCRegisterProject.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCAddProject.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCDashBoardTeacher.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCInforTeacher.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCMangeProject.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.UIMain.UCLoadForm.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCDashBoard.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Student.UCDashBoardStudent.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Student.UCInforStudent.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCExtend.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCFaculty.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputStudent.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputTeacher.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCKoTopic.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Login.UCLogin.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCProject.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudent.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudentInfor.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.UCStudentProjects.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacher.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacherInfor.resources
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.csproj.CoreCompileInputs.cache
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.exe
+C:\Users\lamha\Downloads\DA_1_21\DA_1\obj\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\bin\Debug\DA_1.exe.config
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\bin\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\bin\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\bin\Debug\EntityFramework.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\bin\Debug\EntityFramework.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.frmMain.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Student.UCRegisterProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCAddProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCDashBoardTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCInforTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCMangeProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.UIMain.UCLoadForm.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCDashBoard.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Student.UCDashBoardStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Student.UCInforStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCExtend.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCFaculty.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCKoTopic.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Login.UCLogin.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCProject.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudent.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudentInfor.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.UCStudentProjects.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacher.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacherInfor.resources
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.exe
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\obj\Debug\DA_1.pdb
+C:\NCT\Năm 2\Kì 2\Lập trình Windows\Đồ Án\DA_1_21\DA_1_21\DA_1\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\bin\Debug\DA_1.exe.config
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\bin\Debug\DA_1.exe
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\bin\Debug\DA_1.pdb
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\bin\Debug\EntityFramework.dll
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\bin\Debug\Guna.UI2.dll
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\bin\Debug\EntityFramework.xml
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.csprojAssemblyReference.cache
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.frmMain.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Student.UCRegisterProject.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCAddProject.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCDashBoardTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCInforTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Teacher.UCMangeProject.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.UIMain.UCLoadForm.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.UCAbout.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCDashBoard.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.Properties.Resources.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Student.UCDashBoardStudent.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Student.UCInforStudent.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCExtend.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCFaculty.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputStudent.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCInputTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCKoTopic.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Login.UCLogin.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCProject.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudent.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCStudentInfor.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.UCStudentProjects.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacher.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.UserControls.Admin.UCTeacherInfor.resources
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.csproj.GenerateResource.cache
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.csproj.CoreCompileInputs.cache
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.csproj.CopyComplete
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.exe
+C:\Users\lamha\OneDrive\Desktop\Win\Code\DA_1\obj\Debug\DA_1.pdb
